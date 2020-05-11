@@ -6,3 +6,8 @@ def reverse_each_word(sentence1)
  p reversed_str.rstrip
 end
 
+
+def reverse_each_word(sentence1)
+  
+end
+
